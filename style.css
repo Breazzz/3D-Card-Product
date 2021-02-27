@@ -39,7 +39,6 @@ body {
   width: 20rem;
   z-index: 2;
   transition: all 0.75s ease-out;
-  transform: rotate(60deg);
 }
 .circle {
   width: 15rem;
